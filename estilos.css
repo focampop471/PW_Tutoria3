@@ -1,0 +1,14 @@
+* { 
+margin: 20; 
+padding: 20;
+font-family: "Lucida Console", Verdana, Monospace;
+text-align: left; 
+}
+
+body {
+    background-color: lightblue;
+}
+
+article{
+	color:red;
+}
